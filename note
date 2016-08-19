@@ -1,1 +1,8 @@
-<h2 id="chai">给标签增加id，id必须唯一
+<h2 id="chai">给标签增加id，id必须唯一，然后可以通过<a href="index.html#chai">链接到该标签
+<a target="_blank">在新的页面中打开链接
+<img src="" alt="aaa">如果显示不了图像用alt中的内容代替
+h1{
+color:gray;
+}h1是选择器
+<link type="text/css" rel="stylesheet" href=".css">连接到外部css
+<p class="green">为标签增加类名,在css中可以p.green{color:green;}
